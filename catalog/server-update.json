@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "product": "industriom-server",
+  "channel": "stable",
+  "version": "0.1.26",
+  "fileName": "INDUSTRIOM-Server-Setup-0.1.26.exe",
+  "sizeBytes": 162141725,
+  "sha256": "51292DDFFA7C9BDE63506FBE6E08EE93D6FDDB05D272AA764142939241A56528",
+  "publishedAt": "2026-08-26T22:40:00.000Z",
+  "downloadPath": "https://github.com/SbitContainer/industriom-releases/releases/download/server-0.1.26/INDUSTRIOM-Server-Setup-0.1.26.exe",
+  "signatureAlgorithm": "ed25519",
+  "notes": "Primeiro Server com catálogo permanente assinado e cache compatível de App e AXION.",
+  "minimumCurrentVersion": "0.1.24",
+  "maximumCurrentVersion": "0.1.25",
+  "signature": "OiKgidjH69a8gfRBHTkRAdF8tgjEL888Dz3w3C6NC92N0BI3AZC5G5q0zRNel5Wi5KWBhFTidDfwqud6huC7Bw=="
+}
