@@ -10,7 +10,7 @@
   "downloadPath": "https://github.com/SbitContainer/industriom-releases/releases/download/server-0.1.31/INDUSTRIOM-Server-Setup-0.1.31.exe",
   "signatureAlgorithm": "ed25519",
   "notes": "Adiciona pareamento temporário do Codex por código de uso único, limitado ao diagnóstico autorizado no app.",
-  "minimumCurrentVersion": "0.1.28",
+  "minimumCurrentVersion": "0.1.27",
   "maximumCurrentVersion": "0.1.30",
-  "signature": "0iXVF1Ov7JxPeG3cb1ph/DyDMdoqudt0/CkZDTFWQvHdhH598rzGCk7I7iw+k4ulp1RU6c7h8aU1+RQxe+OcBA=="
+  "signature": "Y6Jp5krzlEB4lITAiH0LdO8KoI8jRKQ/iDk2RqU+C0K9JHx4XX06z0wPM47onSWrniZWC/Dk0ydIcgaY7uERCA=="
 }
